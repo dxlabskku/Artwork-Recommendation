@@ -1,14 +1,13 @@
 # Artwork-Recommendation
-
-We present a Artwork Recommendation System based which provides new artworks based on a visual clustering technique and user preferences, developed with sampled artworks from WikiArt datasets. The purpose of development of this Recommendation System is to verify whether a user's satisfaction increases when presented with artworks close to he or her taste. We also conducted a within-subjects experiment to validate the effect of preference based recommendation on a user's satisfaction on the recommended artwork sets.
+We present an Artwork Recommendation System that provides new artworks based on a visual clustering technique and user preferences, developed with sampled artworks from WikiArt datasets. The purpose of the development of this Recommendation System is to verify whether a user's satisfaction increases when presented with artwork close to his or her taste. We also conducted a within-subjects experiment to validate the effect of preference-based recommendation on a user's satisfaction with the recommended artwork sets.
 
 
 ## Workflow of our study
 
 
 ## Data
-The list of our sampled artworks used for the Experiment is _total_dataset in ```data``` folder. Picture files for artworks in the list can be downloaded here.
-The table below shows the number of artworks for each art styles used for the experiment.
+The list of our sampled artworks used for the Experiment is _total_dataset in ```data``` folder. Picture files for artworks in the list can be downloaded [here](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset).
+The table below shows the number of artworks for each art style used for the experiment.
 
 |  Art Style                 |   # of Artwork |
 |:---------------------------|---------------:|
@@ -25,4 +24,5 @@ The table below shows the number of artworks for each art styles used for the ex
 
 
 ## Experiment
+
 
