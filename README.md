@@ -5,7 +5,7 @@ We present an Artwork Recommendation System that provides new artworks based on 
 ## Workflow of our study
 <p align="center">
 <img src="assets/workflow.png" width="700"><br>
-<em> Figure : From data collection to Recommendation </em>
+<em> Figure 1 : From data collection to Recommendation </em>
 </p>
 
 
@@ -34,7 +34,7 @@ The participants were asked to select 'like' or 'dislike' on 20 random artworks 
 
 <p align="center">
 <img src="assets/artwork recommendation website.png" width="500"><br>
-<em> Figure : The experiment website (written in Korean) </em>
+<em> Figure 2 : The experiment website (written in Korean) </em>
 </p>
 
 
