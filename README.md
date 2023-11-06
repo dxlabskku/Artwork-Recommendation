@@ -5,7 +5,7 @@ We present an Artwork Recommendation System that provides new artworks based on 
 ## Workflow of our study
 <p align="center">
 <img src="assets/workflow.png" width="700"><br>
-**Figure : From data collection to Recommendation
+<em> Figure : From data collection to Recommendation </em>
 </p>
 
 
