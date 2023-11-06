@@ -3,7 +3,10 @@ We present an Artwork Recommendation System that provides new artworks based on 
 
 
 ## Workflow of our study
-
+<p align="center">
+<img src="assets/workflow.png" width="650"><br>
+<em>Figure : From data collection to Recommendation.</em>
+</p>
 
 ## Data
 The list of our sampled artworks used for the Experiment is _total_dataset in ```data``` folder. Picture files for artworks in the list can be downloaded [here](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset).
