@@ -32,4 +32,9 @@ The experiment was conducted on 42 university students recruited from one of the
 We developed a website that collects real-time user preferences on the presented artwork.
 The participants were represented with two sets of artwork, the first set was extracted from a cluster that was the closest to the artwork each user liked. The second set was selected from another cluster, which was the farthest from a group of artwork that the user liked.
 
+<p align="center">
+<img src="assets/artwork recommendation website.png" width="700"><br>
+<em> Figure : From data collection to Recommendation </em>
+</p>
+
 
